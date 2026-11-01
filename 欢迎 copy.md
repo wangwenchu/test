@@ -55,4 +55,6 @@ $$
 ![image.png](/assets/image-20261029-000110.png)
 
 ```cpp
+if (a == 1) {
+}
 ```
