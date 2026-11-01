@@ -1,0 +1,12 @@
+16:51:54 [WARN] 未获得管理员权限：代理启动与系统代理设置不可用
+16:52:10 [INFO] 已请求管理员权限，正在以管理员身份重新启动
+16:52:16 [INFO] 下载：开始下载 …（保持当前代理与内核不变）
+16:52:16 [INFO] 尝试镜像：https://d1a.mygrok.top/ChromeGo.7z
+16:53:16 [INFO] 下载：下载完成：https://d1a.mygrok.top/ChromeGo.7z
+16:53:16 [INFO] 更新前：停止全部内核并还原系统代理
+16:53:18 [INFO] 旧版本已移出到 D:\tools\翻墙\history\ChromeGo_20261101_165318
+16:54:30 [INFO] 旧版本已打包：D:\tools\翻墙\history\ChromeGo_20261101_165318.7z
+16:54:30 [INFO] 下载：旧版本已打包：D:\tools\翻墙\history\ChromeGo_20261101_165318.7z
+16:54:30 [INFO] 下载：解压到 D:\tools\翻墙\ChromeGo …
+16:54:30 [INFO] 解压 ChromeGo.7z → D:\tools\翻墙\ChromeGo
+16:54:31 [ERROR] 下载：下载/解压失败：7z 解压失败：(b'\x03\x03\x01\x1b', 'BCJ2 filter is not supported by py7zr. Please consider to contribute to XZ/liblzma project and help Python core team implementing it. Or please use another tool to extract it.')
